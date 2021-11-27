@@ -3,16 +3,10 @@
 
 </a>
 <a href="https://github.com/adityakmr7/medium-clone-frontend/fork" target="blank">
-<img src="https://img.shields.io/github/forks/adityakmr7/gradient-generator?style=flat-square" alt="medium-fontend forks"/>
+<img src="https://img.shields.io/github/forks/adityakmr7/medium-clone-frontend?style=flat-square" alt="medium-fontend forks"/>
 </a>
 <a href="https://github.com/adityakmr7/medium-clone-frontend/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/adityakmr7/gradient-generator?style=flat-square" alt="medium-fontend stars"/>
-</a>
-<a href="https://github.com/adityakmr7/medium-clone-frontend/issues" target="blank">
-<img src="https://github.com/adityakmr7/medium-clone-frontend/?style=flat-square" alt="medium-fontend issues"/>
-</a>
-<a href="https://github.com/adityakmr7/medium-clone-frontendpulls" target="blank">
-<img src="https://github.com/adityakmr7/medium-clone-frontend?style=flat-square" alt="medium-fontend pull-requests"/>
+<img src="https://img.shields.io/github/stars/adityakmr7/medium-clone-frontend?style=flat-square" alt="medium-fontend stars"/>
 </a>
 
 </p>
@@ -58,4 +52,6 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 
 
 # Screenshot
+<img href="https://github.com/adityakmr7/medium-clone-frontend/blob/main/src/assets/screenshot/01.png"/>
+<img href="https://github.com/adityakmr7/medium-clone-frontend/blob/main/src/assets/screenshot/02.png"/>
 
